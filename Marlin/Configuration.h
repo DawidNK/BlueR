@@ -490,9 +490,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
     //Bluer
-  #define DEFAULT_Kp 11.05
-  #define DEFAULT_Ki 0.63
-  #define DEFAULT_Kd 48.48
+ #define DEFAULT_Kp 11.03
+ #define DEFAULT_Ki 0.63
+ #define DEFAULT_Kd 48.43
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
