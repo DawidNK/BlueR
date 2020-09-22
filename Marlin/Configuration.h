@@ -539,9 +539,9 @@
   //#define MIN_BED_POWER 0
   //#define PID_BED_DEBUG // Sends debug data to the serial port.
     //Bluer
-    #define DEFAULT_bedKp 10.34
-    #define DEFAULT_bedKi 0.25
-    #define DEFAULT_bedKd 300.5
+   #define DEFAULT_bedKp 54.99
+   #define DEFAULT_bedKi 10.24
+   #define DEFAULT_bedKd 196.92
 
   //120V 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
   //from pidautotune
